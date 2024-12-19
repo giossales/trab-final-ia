@@ -10,7 +10,7 @@ Maria Giovanna Gonçalves Sales
 ## Getting started
 1. Clone o projeto
 ```
-$ git clone https://github.com/bd1-icomp-ufam/trabalho-pr-tico-i-bancos-de-dados-1-tp1-gabriela-giovanna-juile
+$ git clone https://github.com/giossales/trab-final-ia
 ```
 
 2. Execute o notebook `q1.ipynb` para obtenção do dataset processado e realizar o primeiro passo do trabalho.

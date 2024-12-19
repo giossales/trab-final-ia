@@ -1,5 +1,5 @@
-# Trabalho Final de Inteligência Artificial 
-Trabalho solicitado como avaliação parcial de Inteligência Artificial do semestre 2024/2 do curso de Ciência da Computação da UFAM.
+# Trabalho Final de Inteligência Artificial - 2024/2
+Trabalho solicitado como avaliação parcial da disciplina de Inteligência Artificial, ministrada no curso de Ciência da Computação da UFAM.
 
 ## Autores
 Erin Dante de Oliveira Vasconcelos  

@@ -13,4 +13,4 @@ Maria Giovanna Gonçalves Sales
 $ git clone https://github.com/giossales/trab-final-ia
 ```
 
-2. Execute o notebook `q1.ipynb` para obtenção do dataset processado e realização do primeiro passo do trabalho.
+2. Execute o notebook `trab-final-ia.ipynb` para obtenção do dataset processado e realização dos passos do trabalho.
